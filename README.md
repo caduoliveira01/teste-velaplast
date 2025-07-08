@@ -1,6 +1,6 @@
 # Cadastro de Alunos
 
-Sistema web para cadastro e listagem de alunos, desenvolvido como teste prático para vaga de estágio.
+Sistema web para cadastro e listagem de alunos.
 
 ## 📅 Sobre o Projeto
 
@@ -88,4 +88,4 @@ teste-velaplast/
 
 ## 📆 Autor
 
-Desenvolvido por **[Carlos Oliveira]** como parte de um teste prático para vaga de estágio.
+Desenvolvido por **[Carlos Oliveira]**.
