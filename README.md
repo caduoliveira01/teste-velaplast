@@ -86,16 +86,6 @@ teste-velaplast/
 | `GET`  | `/listar.php` | Lista todos os alunos |
 | `POST` | `/index.php`  | Cadastra novo aluno   |
 
-**Exemplo de envio (formulário):**
-```http
-POST /index.php
-Content-Type: application/x-www-form-urlencoded
-
-nome=João+Silva&idade=20
-```
-
-
 ## 📆 Autor
 
 Desenvolvido por **[Carlos Oliveira]** como parte de um teste prático para vaga de estágio.
-```
